@@ -55,13 +55,5 @@ if __name__ == "__main__":
         output_json = check_writing(img_p, target_w)
         
         sys.stdout.write(output_json + '\n')
-        sys.stdout.flush()
-
-
-{
- "true_text": "ماما", 
- "predicted_text": "ماما", 
- "accuracy": 100.0, 
- "dysgraphia_alarm": True
- }     
+        sys.stdout.flush()    
 
