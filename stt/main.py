@@ -66,11 +66,3 @@ if __name__ == "__main__":
         sys.stdout.flush()
 
 
-
-{
-    "true_text": "احضرت الكتاب", 
-    "predicted_text": "أحضرت الكتاب", 
-    "accuracy": 100.0, 
-    }
-
-
